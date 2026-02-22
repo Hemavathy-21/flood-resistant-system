@@ -1,5 +1,8 @@
 # Flood Resistant System Using Hydraulic Lift
 
+## Project Model
+![Flood Resistant System](images/model.jpg) 
+
 ## Project Overview
 ->The Flood Resistant System is an IoT-based solution designed to protect homes and property during flood emergencies.  
 ->The system detects rising water levels using sensors and automatically activates a hydraulic lift mechanism to elevate the structure to a safer height.
